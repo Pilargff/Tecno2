@@ -39,6 +39,7 @@ function draw() {
   background(fondoColor);
 
   // Capa 2: forma central giratoria con opacidad
+  //Test commit
   push();
   translate(width / 2, height / 2);
   rotate(angle);
